@@ -1,6 +1,5 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -67,6 +66,7 @@ header {
 
 .nav-address {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  color: #2e2f42;
 }
 
 .header-link-flex-container {
@@ -80,11 +80,17 @@ header {
   padding-left: 200px;
 }
 
-.body-medium {
+.header-link-flex-container .head-nav-list .body-medium {
   font-weight: 600;
   position: relative;
   color: #404bbf;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 24px 0;
+}
+
+.body-medium {
+  font-weight: 600;
+  color: #2e2f42;
 }
 
 .body-medium:hover {
@@ -232,7 +238,6 @@ button:hover {
 
 ul a {
   text-decoration: none;
-  color: #434455;
   font-style: normal;
   letter-spacing: 0.02em;
 }
@@ -387,11 +392,6 @@ p {
 .footer-paragraf {
   color: #f4f4fd;
   max-width: 264px;
-}
-
-.body-medium {
-  color: #2e2f42;
-  padding: 24px 0;
 }
 
 .header-studio {

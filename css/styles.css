@@ -226,14 +226,6 @@ button:hover {
   background-color: #404bbf;
 }
 
-header li a:hover {
-  color: #404bbf;
-}
-
-header li a:focus {
-  color: #404bbf;
-}
-
 ul a {
   text-decoration: none;
   color: #434455;

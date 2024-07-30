@@ -361,16 +361,16 @@ footer {
   height: 40px;
 }
 
-.social-media-icons-list:hover {
-  background-color: #404bbf;
-}
-
-.social-media-icons-list:focus {
-  background-color: #404bbf;
-}
-
 .svg-class {
   fill: #f4f4fd;
+}
+
+.social-media-icons-link:hover {
+  background-color: #404bbf;
+}
+
+.social-media-icons-link:focus {
+  background-color: #404bbf;
 }
 
 .social-media-icons-link {

@@ -441,6 +441,14 @@ footer {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
+.banking-app-header {
+  text-align: center;
+}
+
+.banking-app-paragraf {
+  text-align: center;
+}
+
 .social-media- .banking-app-header {
   margin-bottom: 8px;
 }

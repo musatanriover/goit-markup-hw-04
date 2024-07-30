@@ -252,6 +252,12 @@ ul a {
   letter-spacing: 0.02em;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
 li {
   list-style-type: none;
 }
@@ -300,7 +306,6 @@ footer {
 
 .our-team li {
   background-color: white;
-  width: 265px;
 }
 
 .our-team-info {
@@ -350,10 +355,7 @@ footer {
 .social-media-icons {
   display: flex;
   justify-content: center;
-  align-items: center;
   gap: 24px;
-  padding-left: 10px;
-  list-style: none;
 }
 
 .social-media-icons-list {

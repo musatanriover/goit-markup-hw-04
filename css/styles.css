@@ -484,6 +484,12 @@ p {
   margin-bottom: 16px;
 }
 
+.footer-div {
+  display: flex;
+  align-items: baseline;
+  margin-right: 120px;
+}
+
 footer {
   margin-top: 150px;
 }

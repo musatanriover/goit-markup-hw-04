@@ -481,7 +481,6 @@ p {
 
 .footer-logo {
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .footer-div {
@@ -533,8 +532,4 @@ p {
 
 .footer-social-media-svg {
   fill: #f4f4fd;
-}
-
-footer {
-  margin-top: 150px;
 }
